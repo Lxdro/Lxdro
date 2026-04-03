@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![MasterHead](https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif)
 <!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
