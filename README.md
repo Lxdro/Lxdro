@@ -7,15 +7,18 @@
 <div align="center">
 
 ```
-▒█░░░ ▀▄░▄▀ █▀▄ █▀▄ █▀▀█ 
-▒█░░░ ░░█░░ ▄▀█ █▀▄ █░░█ 
-▒█▄▄█ ░░▀░░ █▄▄ ▀░▀ ▀▀▀▀
+ _      _____  ___   _   _____________ _____ 
+| |    |  ___|/ _ \ | \ | |  _  \ ___ \  _  |
+| |    | |__ / /_\ \|  \| | | | | |_/ / | | |
+| |    |  __||  _  || . ` | | | |    /| | | |
+| |____| |___| | | || |\  | |/ /| |\ \\ \_/ /
+\_____/\____/\_| |_/\_| \_/___/ \_| \_|\___/ 
 ```
 
 **`Software Engineer · iOS · Cloud · AI`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-tolaini)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lxdro)
+[![X](https://img.shields.io/twitter/follow/Droni0s)](https://x.com/Droni0s)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.tolaini@epita.fr)
 
 </div>
@@ -28,9 +31,9 @@
 
 ```yaml
 name:     Leandro Tolaini
-role:     Software Engineer (MSc candidate)
+role:     Software Engineer (MSc)
 school:   EPITA Paris — expected 2027
-location: Paris, France  🗼
+location: Paris, France
 focus:
   - iOS / Swift development
   - Cloud-native & serverless architectures
@@ -48,41 +51,19 @@ focus:
 <summary><b>⚡ Merck Group — Software Engineer Intern</b> <code>Aug 2025 – Jan 2026 · Eysins, Switzerland</code></summary>
 <br>
 
-- 🧠 Built an internal **multimodal LLM benchmark** in Python on cloud GPUs → **98% accuracy** on healthcare AI feature
-- ☁️ Designed a **serverless, event-driven microservice** system across 10+ Azure-native components → **−30% latency**
-- 📱 Shipped a **cross-platform Flutter** mobile library, saving **$15,000+** in future dev costs
+</details>
+
+<details>
+<summary><b>Apple — Swift Student Challenge Distinguished Winner</b> <code>Mar 2025 · Cupertino, United States</code></summary>
+<br>
 
 </details>
 
 <details>
-<summary><b>🍎 Apple — Swift Student Challenge Distinguished Winner</b> <code>Mar 2025 · Cupertino, United States</code></summary>
+<summary><b>RevenueCat Shipaton — Indie iOS Developer</b> <code>Aug – Oct 2024 · Remote</code></summary>
 <br>
 
-- 🏆 Built **Terminal-tor**, an iPadOS/macOS game teaching UNIX fundamentals via SwiftUI — *Distinguished Winner*
-- 📣 Generated **20,000+ impressions** across showcase posts; released open source
-- 🎟️ Personally invited to **WWDC25**, presented live to 100+ attendees
-
 </details>
-
-<details>
-<summary><b>🚀 RevenueCat Shipaton — Indie iOS Developer</b> <code>Aug – Oct 2024 · Remote</code></summary>
-<br>
-
-- 💪 Shipped **Abs God**, a native iOS fitness app during RevenueCat's largest mobile hackathon
-- 💰 Reached **200+ users** and **generated revenue within week 1**
-- 📝 Featured in an official Shipaton blog post for project journey
-
-</details>
-
----
-
-### `> ls ./projects`
-
-| Project | Stack | Description |
-|:--------|:------|:------------|
-| **LOCKD** | SwiftUI · ScreenTime API · ARKit · CoreMotion | Blocks distracting apps until you complete push-up goals — push-up detection via face-depth tracking |
-| **Tiger Compiler** | C++ · LLVM | Full Tiger language compiler: front-end + middle-end pipeline → LLVM IR |
-| **42sh** | C | POSIX-compliant minishell — tokenizer, parser, pipes, redirections, env vars |
 
 ---
 
