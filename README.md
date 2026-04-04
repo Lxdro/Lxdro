@@ -1,16 +1,147 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2f/10/ce/2f10ce69b96c0611989308b0abc68e70.gif" />
+  <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
 </p><!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+```
+▒█░░░ ▀▄░▄▀ █▀▄ █▀▄ █▀▀█ 
+▒█░░░ ░░█░░ ▄▀█ █▀▄ █░░█ 
+▒█▄▄█ ░░▀░░ █▄▄ ▀░▀ ▀▀▀▀
+```
+
+**`Software Engineer · iOS · Cloud · AI`**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-tolaini)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lxdro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.tolaini@epita.fr)
+
+</div>
+
+---
+
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Lxdro&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=c9d1d9" />
+
+### `> whoami`
+
+```yaml
+name:     Leandro Tolaini
+role:     Software Engineer (MSc candidate)
+school:   EPITA Paris — expected 2027
+location: Paris, France  🗼
+focus:
+  - iOS / Swift development
+  - Cloud-native & serverless architectures
+  - AI/ML-powered features
+  - Systems programming
+```
+
+<br clear="right"/>
+
+---
+
+### `> ls ./experience`
+
+<details>
+<summary><b>⚡ Merck Group — Software Engineer Intern</b> <code>Aug 2025 – Jan 2026 · Eysins, Switzerland</code></summary>
+<br>
+
+- 🧠 Built an internal **multimodal LLM benchmark** in Python on cloud GPUs → **98% accuracy** on healthcare AI feature
+- ☁️ Designed a **serverless, event-driven microservice** system across 10+ Azure-native components → **−30% latency**
+- 📱 Shipped a **cross-platform Flutter** mobile library, saving **$15,000+** in future dev costs
+
+</details>
+
+<details>
+<summary><b>🍎 Apple — Swift Student Challenge Distinguished Winner</b> <code>Mar 2025 · Cupertino, United States</code></summary>
+<br>
+
+- 🏆 Built **Terminal-tor**, an iPadOS/macOS game teaching UNIX fundamentals via SwiftUI — *Distinguished Winner*
+- 📣 Generated **20,000+ impressions** across showcase posts; released open source
+- 🎟️ Personally invited to **WWDC25**, presented live to 100+ attendees
+
+</details>
+
+<details>
+<summary><b>🚀 RevenueCat Shipaton — Indie iOS Developer</b> <code>Aug – Oct 2024 · Remote</code></summary>
+<br>
+
+- 💪 Shipped **Abs God**, a native iOS fitness app during RevenueCat's largest mobile hackathon
+- 💰 Reached **200+ users** and **generated revenue within week 1**
+- 📝 Featured in an official Shipaton blog post for project journey
+
+</details>
+
+---
+
+### `> ls ./projects`
+
+| Project | Stack | Description |
+|:--------|:------|:------------|
+| **LOCKD** | SwiftUI · ScreenTime API · ARKit · CoreMotion | Blocks distracting apps until you complete push-up goals — push-up detection via face-depth tracking |
+| **Tiger Compiler** | C++ · LLVM | Full Tiger language compiler: front-end + middle-end pipeline → LLVM IR |
+| **42sh** | C | POSIX-compliant minishell — tokenizer, parser, pipes, redirections, env vars |
+
+---
+
+### `> cat ./skills.json`
+
+```json
+{
+  "languages": ["Swift", "Python", "C/C++", "Dart", "Java", "JavaScript/TypeScript", "SQL"],
+  "tools":     ["Xcode", "Claude Code", "Git", "Docker", "Linux", "Azure", "AWS"],
+  "practices": ["CI/CD", "Agile/Scrum", "DevOps", "Serverless", "Event-driven Architecture"],
+  "spoken":    {
+    "French":  "Native",
+    "English": "C1 — TOEIC 950/990",
+    "German":  "B1"
+  }
+}
+```
+
+---
+
+### `> htop`
+
+<div align="center">
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white)
+![LLVM](https://img.shields.io/badge/LLVM-262D3A?style=flat-square&logo=llvm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### `> tail -f ./activity.log`
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lxdro&theme=radical&hide_border=true&background=0d0d0d&ring=ff2d78&fire=ff2d78&currStreakLabel=ff2d78)](https://github.com/Lxdro)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lxdro&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=c9d1d9)](https://github.com/Lxdro)
+
+</div>
+
+---
+
+<div align="center">
+
+*`// always shipping`*
+
+</div>
