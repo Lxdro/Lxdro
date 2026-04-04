@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif" />
+  <img src="https://i.pinimg.com/originals/f5/c4/be/f5c4bed9c79fc15a7197257d9f0f5b23.gif" />
 </p><!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -7,12 +7,12 @@
 <div align="center">
 
 ```
- _      _____  ___   _   _____________ _____ 
-| |    |  ___|/ _ \ | \ | |  _  \ ___ \  _  |
-| |    | |__ / /_\ \|  \| | | | | |_/ / | | |
-| |    |  __||  _  || . ` | | | |    /| | | |
-| |____| |___| | | || |\  | |/ /| |\ \\ \_/ /
-\_____/\____/\_| |_/\_| \_/___/ \_| \_|\___/ 
+.____                             .___              
+|    |    ____ _____    ____    __| _/______  ____  
+|    |  _/ __ \\__  \  /    \  / __ |\_  __ \/  _ \ 
+|    |__\  ___/ / __ \|   |  \/ /_/ | |  | \(  <_> )
+|_______ \___  >____  /___|  /\____ | |__|   \____/ 
+        \/   \/     \/     \/      \/               
 ```
 
 **`Software Engineer · iOS · Cloud · AI`**
