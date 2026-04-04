@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f5/c4/be/f5c4bed9c79fc15a7197257d9f0f5b23.gif" />
+  <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
 </p><!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -109,7 +109,6 @@ focus:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lxdro&theme=radical&hide_border=true&background=0d0d0d&ring=ff2d78&fire=ff2d78&currStreakLabel=ff2d78)](https://github.com/Lxdro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lxdro&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&text_color=c9d1d9)](https://github.com/Lxdro)
 
 </div>
 
