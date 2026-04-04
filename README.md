@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
+  <img src="https://i.pinimg.com/originals/53/ad/0c/53ad0cc3373bbe0ea51dd878241952c6.gif" />
 </p><!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -18,7 +18,7 @@
 **`Software Engineer · iOS · Cloud · AI`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-tolaini)
-[![X](https://img.shields.io/twitter/follow/Droni0s)](https://x.com/Droni0s)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Droni0s)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.tolaini@epita.fr)
 
 </div>
@@ -47,23 +47,17 @@ focus:
 
 ### `> ls ./experience`
 
-<details>
-<summary><b>⚡ Merck Group — Software Engineer Intern</b> <code>Aug 2025 – Jan 2026 · Eysins, Switzerland</code></summary>
+<summary><b>Merck Group — Software Engineer Intern</b> <code>Aug 2025 – Jan 2026 · Eysins, Switzerland</code></summary>
 <br>
 
-</details>
 
-<details>
 <summary><b>Apple — Swift Student Challenge Distinguished Winner</b> <code>Mar 2025 · Cupertino, United States</code></summary>
 <br>
 
-</details>
 
-<details>
 <summary><b>RevenueCat Shipaton — Indie iOS Developer</b> <code>Aug – Oct 2024 · Remote</code></summary>
 <br>
 
-</details>
 
 ---
 
@@ -123,6 +117,5 @@ focus:
 
 <div align="center">
 
-*`// always shipping`*
-
 </div>
+
