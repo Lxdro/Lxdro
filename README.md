@@ -26,8 +26,6 @@ _  /___/  __/ /_/ /_  / / / /_/ / _  /   / /_/ /
 
 ---
 
-[//]: # "<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=Lxdro&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=c9d1d9" />"
-
 ### `> whoami`
 
 ```yaml
