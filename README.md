@@ -1,19 +1,20 @@
-```
+
+<div align="center">
+<pre>
        .-.                            .            
       / (_)                          /             
      /        .-.  .-.  .  .-.  .-../   ).--..-._. 
     /       ./.-'_(  |   )/   )(   /   /    (   )  
  .-/.    .-.(__.'  `-'-''/   (  `-'-../      `-'   
 (_/ `-._.                     `-                   
-```
+</pre>
+</div>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
 </p><!--
 **Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<div align="center">
 
 **`Software Engineer · iOS · Cloud · AI`**
 
