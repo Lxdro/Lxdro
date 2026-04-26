@@ -12,8 +12,9 @@ _  /___/  __/ /_/ /_  / / / /_/ / _  /   / /_/ /
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
-</p><!--
-<br><br>
+</p>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-tolaini)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Droni0s)
