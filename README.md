@@ -10,6 +10,9 @@ _  /___/  __/ /_/ /_  / / / /_/ / _  /   / /_/ /
 
 <strong><code>Software Engineer · iOS · Cloud · AI</code></strong>
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
+</p><!--
 <br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-tolaini)
@@ -18,12 +21,6 @@ _  /___/  __/ /_/ /_  / / / /_/ / _  /   / /_/ /
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandro.tolaini@epita.fr)
 
 </div>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/d1/de/5a/d1de5ab789284bc7f6a8988bc4756989.gif" />
-</p><!--
-**Lxdro/Lxdro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 ---
 
